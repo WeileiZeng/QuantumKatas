@@ -1,3 +1,7 @@
+Currently we are working on adding a demonstration for the five qubit codes. See the code in []()
+
+
+
 # Introduction
 
 The Quantum Katas are a series of self-paced tutorials to help you learn quantum computing and Q# programming.
